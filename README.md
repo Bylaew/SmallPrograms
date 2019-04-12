@@ -7,10 +7,10 @@
 The program finds the longest word of the string. <br />
 <b>Example:</b>
 <code>
-The word # 0 is 9 characters long<br />
-The word # 1 is 6 characters long<br />
-The word # 2 is 2 characters long<br />
-The word # 3 is 4 characters long<br />
+The word # 0 is 9 characters long <br />
+The word # 1 is 6 characters long <br />
+The word # 2 is 2 characters long <br />
+The word # 3 is 4 characters long <br />
 Longest word: Operation
  </code>
 <br />
