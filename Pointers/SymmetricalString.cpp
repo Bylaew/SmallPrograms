@@ -58,7 +58,6 @@ int main(){
 	std::cout << "String's length after processing:\t" << sLen - tLen << std::endl;
 	delete[] str;
 	delete[] nStr;
-	system("pause");
 	return 0;
 }
 
