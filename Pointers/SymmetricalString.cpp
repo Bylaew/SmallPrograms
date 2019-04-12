@@ -52,7 +52,7 @@ int main(){
 	symmFragCheck(str, sLen);
 	char* nStr = new char[tLen];
 	fillArr(str, nStr, sLen, tLen);
-	std::cout << "Example: sflkfqwerttrewqjlssf -> sflkfjlssf " << std::endl;
+	std::cout << "Result: ";
 	outputArr(nStr, tLen);
 	std::cout << "String's length before processing:\t" << sLen << std::endl;
 	std::cout << "String's length after processing:\t" << sLen - tLen << std::endl;
@@ -61,3 +61,4 @@ int main(){
 	system("pause");
 	return 0;
 }
+
